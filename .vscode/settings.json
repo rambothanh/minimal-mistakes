@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "prettier.insertPragma": true,
+    "prettier.requireConfig": true,
+    "prettier.requirePragma": true
+}
